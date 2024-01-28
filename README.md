@@ -1,1 +1,1 @@
-Слайдер на чистом JavaScript.
+Слайдер на JavaScript.
